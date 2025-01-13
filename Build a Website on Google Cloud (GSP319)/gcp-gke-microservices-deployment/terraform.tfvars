@@ -1,0 +1,7 @@
+project_id    = "your-project-id"
+zone          = "us-central1-a"
+cluster_name  = "monolith-cluster"
+monolith_name = "monolith"
+orders_name   = "orders"
+products_name = "products"
+frontend_name = "frontend"
